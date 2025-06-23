@@ -1,0 +1,16 @@
+What is an Operating System (OS)
+An operating system (OS) is a system software that acts as an intermediate layer between the user or user applications and the physical hardware components.
+Generally, we cannot communicate directly with hardware components. For example, even to save a file, we can't directly interact with the hardware. So there should be a system that helps us communicate with the physical components. That is where the operating system comes in.
+The OS handles this interaction and allows users and applications to access hardware in a safe and efficient way.
+Purpose of an OS
+The OS acts as an intermediary between:
+User and hardware
+User applications and hardware
+It manages resources and provides services such as memory management, process handling, device control, and file systems.
+Types of Operating Systems
+There are various types of operating systems. Some common ones are:
+Windows
+Linux
+macOS
+Android
+iOS
